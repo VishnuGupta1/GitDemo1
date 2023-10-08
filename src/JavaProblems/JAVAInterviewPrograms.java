@@ -4,7 +4,7 @@ public class JAVAInterviewPrograms {
 
 	public static void main(String[] args) {
 	
-	
+
 	//String seperate and reverse 
 	
 		String name = "Greens Tech"; 
@@ -26,7 +26,8 @@ public class JAVAInterviewPrograms {
 		System.out.println(res);
 		
 
-	
+	OUTPUT: sneerG hceT 
+
 	
 	
 	
